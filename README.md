@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="120" height="120" style="border-radius: 50%; border: 4px solid #2563eb; box-shadow: 0 4px 24px rgba(37,99,235,0.2);" alt="Ramesh Sapkota"/>
+  <img src="https://avatars.githubusercontent.com/u/74038190?v=4" width="100" height="100" style="border-radius: 50%; border: 4px solid #2563eb; box-shadow: 0 4px 24px rgba(37,99,235,0.2);" alt="Ramesh Sapkota"/>
 
   <h1>👋 Hey, I'm <strong>Ramesh Sapkota</strong></h1>
   <h3>🚀 Backend Engineer • ☁️ Cloud Native Dev • 🧠 System Architect</h3>
