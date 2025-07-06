@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,1E40AF&height=280&section=header&text=Ramesh%20Sapkota&fontSize=65&fontAlignY=45&fontColor=FFFFFF&desc=Backend%20Engineer%20|%20Building%20Scalable%20Systems&descSize=20&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A,1E40AF&height=280&section=header&text=Ramesh%20Sapkota&fontSize=65&fontAlignY=45&fontColor=FFFFFF&desc=Backend%20Engineer%20|%20Building%20Scalable%20Systems&descSize=20&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rameshsapkota900&label=Profile%20Views&color=1E40AF&style=for-the-badge" alt="Profile Views" />
