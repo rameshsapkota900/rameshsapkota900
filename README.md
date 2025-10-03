@@ -164,52 +164,93 @@ const rameshSapkota = {
 
 <div align="center">
 
-```java
-@Component
-@Profile("production")
-@Slf4j
-public class ArchitecturalExpertise {
-    
-    @Value("${expert.level}")
-    private final String EXPERTISE_LEVEL = "SENIOR";
-    
-    @Autowired
-    private List<CoreSkill> coreSkills;
-    
-    @EventListener
-    @Async("taskExecutor")
-    public void demonstrateCapabilities() {
-        
-        // 🏗️ SYSTEM ARCHITECTURE
-        SystemArchitecture architecture = SystemArchitecture.builder()
-            .pattern(MICROSERVICES)
-            .communication(EVENT_DRIVEN)
-            .scalability(HORIZONTAL)
-            .resilience(CIRCUIT_BREAKER)
-            .security(ZERO_TRUST)
-            .build();
-            
-        // ⚡ PERFORMANCE OPTIMIZATION
-        PerformanceMetrics metrics = performanceOptimizer
-            .enableCaching(REDIS_CLUSTER)
-            .optimizeQueries(N_PLUS_ONE_ELIMINATION)
-            .implementConnectionPooling(HIKARI_CP)
-            .enableCompression(GZIP)
-            .achieveTargetLatency("< 100ms");
-            
-        // 🛡️ SECURITY IMPLEMENTATION
-        SecurityConfiguration security = SecurityConfiguration.builder()
-            .authentication(JWT_OAUTH2)
-            .authorization(RBAC)
-            .encryption(AES_256)
-            .compliance(GDPR_SOC2)
-            .vulnerabilityScanning(SONARQUBE)
-            .build();
-            
-        log.info("🚀 Enterprise-grade system architecture deployed successfully!");
-    }
-}
-```
+<!-- Interactive Expertise Cards -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="50%">
+<a href="#architecture">
+<img src="https://img.shields.io/badge/🏗️%20SYSTEM%20ARCHITECTURE-MICROSERVICES%20|%20EVENT%20DRIVEN-667eea?style=for-the-badge&labelColor=2a2d3a&logo=architecture&logoColor=white" />
+</a>
+<br><br>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Pattern-Microservices-58a6ff?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Communication-Event%20Driven-79c0ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Scalability-Horizontal-ff6b6b?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Resilience-Circuit%20Breaker-ffd93d?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
+</td>
+
+<td align="center" width="50%">
+<a href="#performance">
+<img src="https://img.shields.io/badge/⚡%20PERFORMANCE%20OPTIMIZATION-SUB%20100MS%20LATENCY-764ba2?style=for-the-badge&labelColor=2a2d3a&logo=performance&logoColor=white" />
+</a>
+<br><br>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Caching-Redis%20Cluster-58a6ff?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Queries-N+1%20Elimination-79c0ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Connection-HikariCP-ff6b6b?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Compression-GZIP-ffd93d?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<a href="#security">
+<img src="https://img.shields.io/badge/🛡️%20SECURITY%20IMPLEMENTATION-ZERO%20TRUST%20MODEL-f093fb?style=for-the-badge&labelColor=2a2d3a&logo=security&logoColor=white" />
+</a>
+<br><br>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Auth-JWT%20OAuth2-58a6ff?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Authorization-RBAC-79c0ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Encryption-AES%20256-ff6b6b?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Compliance-GDPR%20SOC2-ffd93d?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
+</td>
+
+<td align="center" width="50%">
+<a href="#deployment">
+<img src="https://img.shields.io/badge/🚀%20DEPLOYMENT%20EXCELLENCE-CLOUD%20NATIVE-6f42c1?style=for-the-badge&labelColor=2a2d3a&logo=deployment&logoColor=white" />
+</a>
+<br><br>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Containers-Docker%20K8s-58a6ff?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/IaC-Terraform-79c0ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CI/CD-Jenkins%20GitHub-ff6b6b?style=flat-square&labelColor=0d1117" /></td>
+<td><img src="https://img.shields.io/badge/Monitoring-Prometheus-ffd93d?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- Architecture Flow Diagram -->
+<h3>🔥 <b>Enterprise System Architecture Flow</b> 🔥</h3>
+
+<img src="https://img.shields.io/badge/API%20Gateway-Request%20Entry%20Point-667eea?style=for-the-badge&logo=gateway&logoColor=white&labelColor=2a2d3a" />
+<br>⬇️<br>
+<img src="https://img.shields.io/badge/Load%20Balancer-Traffic%20Distribution-764ba2?style=for-the-badge&logo=loadbalancer&logoColor=white&labelColor=2a2d3a" />
+<br>⬇️<br>
+<img src="https://img.shields.io/badge/Microservices-Business%20Logic-f093fb?style=for-the-badge&logo=microservices&logoColor=white&labelColor=2a2d3a" />
+<br>⬇️<br>
+<img src="https://img.shields.io/badge/Event%20Bus-Async%20Communication-58a6ff?style=for-the-badge&logo=eventbus&logoColor=white&labelColor=2a2d3a" />
+<br>⬇️<br>
+<img src="https://img.shields.io/badge/Database%20Layer-Persistent%20Storage-79c0ff?style=for-the-badge&logo=database&logoColor=white&labelColor=2a2d3a" />
 
 </div>
 
@@ -239,34 +280,91 @@ public class ArchitecturalExpertise {
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎯 Enterprise Architecture] --> B[Microservices Design]
-    A --> C[Event-Driven Systems]
-    A --> D[Cloud-Native Solutions]
-    
-    B --> E[Spring Boot Ecosystem]
-    B --> F[API Gateway Patterns]
-    
-    C --> G[Apache Kafka]
-    C --> H[Event Sourcing]
-    
-    D --> I[Kubernetes Orchestration]
-    D --> J[Serverless Computing]
-    
-    E --> K[🚀 Scalable Solutions]
-    F --> K
-    G --> K
-    H --> K
-    I --> K
-    J --> K
-    
-    K --> L[🏆 Business Success]
-    
-    style A fill:#667eea
-    style K fill:#764ba2
-    style L fill:#f093fb
-```
+<!-- Interactive Innovation Dashboard -->
+<table border="0" cellpadding="15" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎯%20ENTERPRISE%20ARCHITECTURE-FOCUS%20AREA-667eea?style=for-the-badge&labelColor=2a2d3a&logo=target&logoColor=white" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=spring,java,kubernetes,docker" /><br><br>
+<img src="https://img.shields.io/badge/Microservices-Design-58a6ff?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Event%20Driven-Systems-79c0ff?style=flat&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/Cloud%20Native-Solutions-ff6b6b?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/API-Gateway-ffd93d?style=flat&labelColor=0d1117" />
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡%20PERFORMANCE%20ENGINEERING-OPTIMIZATION-764ba2?style=for-the-badge&labelColor=2a2d3a&logo=lightning&logoColor=white" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=redis,elasticsearch,prometheus,grafana" /><br><br>
+<img src="https://img.shields.io/badge/Sub%20100ms-Latency-58a6ff?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Redis-Caching-79c0ff?style=flat&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/Query-Optimization-ff6b6b?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JVM-Tuning-ffd93d?style=flat&labelColor=0d1117" />
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🛡️%20SECURITY%20ARCHITECTURE-ZERO%20TRUST-f093fb?style=for-the-badge&labelColor=2a2d3a&logo=security&logoColor=white" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=oauth,jwt,vault,sonarqube" /><br><br>
+<img src="https://img.shields.io/badge/OAuth2-Authentication-58a6ff?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JWT-Authorization-79c0ff?style=flat&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/AES%20256-Encryption-ff6b6b?style=flat&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GDPR-Compliance-ffd93d?style=flat&labelColor=0d1117" />
+</td>
+</tr>
+</table>
+
+<!-- Innovation Pipeline -->
+<h3>🚀 <b>Innovation Development Pipeline</b> 🚀</h3>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/RESEARCH-Phase%201-667eea?style=for-the-badge&logo=research&logoColor=white&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="60"/><br>
+<small><b>Technology Research & Analysis</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DESIGN-Phase%202-764ba2?style=for-the-badge&logo=design&logoColor=white&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/><br>
+<small><b>Architecture & System Design</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DEVELOP-Phase%203-f093fb?style=for-the-badge&logo=code&logoColor=white&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="60"/><br>
+<small><b>Implementation & Coding</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/TEST-Phase%204-58a6ff?style=for-the-badge&logo=test&logoColor=white&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="60"/><br>
+<small><b>Testing & Quality Assurance</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/DEPLOY-Phase%205-79c0ff?style=for-the-badge&logo=deploy&logoColor=white&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="60"/><br>
+<small><b>Deployment & Monitoring</b></small>
+</td>
+</tr>
+</table>
+
+<!-- Current Projects Highlight -->
+<h3>💡 <b>Active Innovation Projects</b> 💡</h3>
+
+<a href="#project1">
+<img src="https://img.shields.io/badge/PROJECT%201-Microservices%20Migration%20Framework-667eea?style=for-the-badge&logo=migration&logoColor=white&labelColor=2a2d3a" />
+</a>
+<br>
+<a href="#project2">
+<img src="https://img.shields.io/badge/PROJECT%202-Real%20Time%20Analytics%20Engine-764ba2?style=for-the-badge&logo=analytics&logoColor=white&labelColor=2a2d3a" />
+</a>
+<br>
+<a href="#project3">
+<img src="https://img.shields.io/badge/PROJECT%203-Zero%20Trust%20Security%20Gateway-f093fb?style=for-the-badge&logo=security&logoColor=white&labelColor=2a2d3a" />
+</a>
 
 </div>
 
