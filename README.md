@@ -1,4 +1,4 @@
-<h1 align="center">👋👌 Ramesh Sapkota</h1>  
+<h1 align="center">👋 Ramesh Sapkota</h1>  
 <p align="center">
   <b>Backend Engineer | System Architect | Cloud & Database Specialist</b>  
 </p>  
