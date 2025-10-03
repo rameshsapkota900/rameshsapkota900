@@ -30,7 +30,6 @@ I’m passionate about building **enterprise-grade backend systems** that are:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshsapkota900&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshsapkota900&theme=tokyonight&hide_border=true" height="150" />
 </p>  
 
