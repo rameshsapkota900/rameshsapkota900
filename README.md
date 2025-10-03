@@ -32,32 +32,88 @@
 
 <div align="center">
 
-```typescript
-const rameshSapkota = {
-  title: "Senior Backend Engineer",
-  company: "@sitaulaTechSolutions",
-  location: "🇳🇵 Damak, Province No. 1, Nepal",
-  
-  expertise: {
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    frameworks: ["Spring Boot", "Spring Cloud", "Spring Security"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-    cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-    specialties: ["System Design", "Performance Optimization", "Security"]
-  },
-  
-  currentMission: "Building next-generation enterprise systems",
-  philosophy: "Clean Code + Scalable Architecture = Success 🚀",
-  openForCollaboration: true,
-  
-  getContactInfo: () => ({
-    email: "rameshsapkota900@gmail.com",
-    portfolio: "https://ramesh-sapkota.com.np/",
-    linkedin: "ramesh-sapkota-122ab4372",
-    github: "rameshsapkota900"
-  })
-};
-```
+<!-- Professional Profile Card -->
+<table border="0" cellpadding="20" cellspacing="0" width="90%">
+<tr>
+<td align="center" width="50%" bgcolor="#0d1117" style="border-radius: 15px;">
+<img src="https://img.shields.io/badge/👨‍💻%20PROFESSIONAL%20PROFILE-SENIOR%20BACKEND%20ENGINEER-667eea?style=for-the-badge&labelColor=2a2d3a&logo=user&logoColor=white" />
+<br><br>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td><img src="https://img.shields.io/badge/Role-Senior%20Backend%20Engineer-58a6ff?style=flat-square&labelColor=0d1117&logo=code" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Company-@sitaulaTechSolutions-79c0ff?style=flat-square&labelColor=0d1117&logo=building" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Location-🇳🇵%20Damak,%20Province%20No.%201,%20Nepal-ff6b6b?style=flat-square&labelColor=0d1117&logo=location" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Mission-Building%20next--generation%20enterprise%20systems-ffd93d?style=flat-square&labelColor=0d1117&logo=target" /></td>
+</tr>
+</table>
+</td>
+
+<td align="center" width="50%" bgcolor="#0d1117" style="border-radius: 15px;">
+<img src="https://img.shields.io/badge/🎯%20CORE%20EXPERTISE-ENTERPRISE%20ARCHITECTURE-764ba2?style=for-the-badge&labelColor=2a2d3a&logo=architecture&logoColor=white" />
+<br><br>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td><img src="https://img.shields.io/badge/Architecture-Microservices%20|%20Event--Driven%20|%20Serverless-58a6ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Frameworks-Spring%20Boot%20|%20Spring%20Cloud%20|%20Spring%20Security-79c0ff?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Databases-PostgreSQL%20|%20MongoDB%20|%20Redis%20|%20Elasticsearch-ff6b6b?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Cloud-AWS%20|%20Docker%20|%20Kubernetes%20|%20Terraform-ffd93d?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- Philosophy & Collaboration Section -->
+<br>
+<table border="0" cellpadding="15" cellspacing="0" width="90%">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/💡%20PHILOSOPHY-CLEAN%20CODE%20+%20SCALABLE%20ARCHITECTURE-f093fb?style=for-the-badge&labelColor=2a2d3a&logo=lightbulb&logoColor=white" />
+<br><br>
+<img src="https://media.giphy.com/media/l0HlQdnQhMB3DToI0/giphy.gif" width="80"/>
+<br>
+<p><b>"Clean Code + Scalable Architecture = Success 🚀"</b></p>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🤝%20COLLABORATION-OPEN%20FOR%20PARTNERSHIPS-6f42c1?style=for-the-badge&labelColor=2a2d3a&logo=handshake&logoColor=white" />
+<br><br>
+<img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="80"/>
+<br>
+<p><b>Ready for challenging projects & innovations!</b></p>
+</td>
+</tr>
+</table>
+
+<!-- Contact Information Cards -->
+<h3>📞 <b>Get In Touch</b> 📞</h3>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📧-rameshsapkota900@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a2d3a" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐-ramesh--sapkota.com.np-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2a2d3a" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💼-ramesh--sapkota--122ab4372-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2a2d3a" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👨‍💻-rameshsapkota900-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2a2d3a" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -461,14 +517,74 @@ const rameshSapkota = {
 
 <h3>🏢 <b>Professional Details</b></h3>
 
-```yaml
-Company: "@sitaulaTechSolutions"
-Location: "Damak, Province No. 1, Nepal 🇳🇵"
-Role: "Senior Backend Engineer & System Architect"
-Experience: "Enterprise-grade system development"
-Availability: "Open for challenging projects & collaborations"
-Timezone: "Nepal Standard Time (UTC+5:45)"
-```
+<!-- Professional Details Dashboard -->
+<table border="0" cellpadding="15" cellspacing="0" width="90%">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🏢%20COMPANY%20INFORMATION-PROFESSIONAL%20DETAILS-667eea?style=for-the-badge&labelColor=2a2d3a&logo=building&logoColor=white" />
+<br><br>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td><img src="https://img.shields.io/badge/Company-@sitaulaTechSolutions-58a6ff?style=flat-square&labelColor=0d1117&logo=building" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Location-Damak,%20Province%20No.%201,%20Nepal%20🇳🇵-79c0ff?style=flat-square&labelColor=0d1117&logo=location" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Role-Senior%20Backend%20Engineer%20&%20System%20Architect-ff6b6b?style=flat-square&labelColor=0d1117&logo=user" /></td>
+</tr>
+</table>
+</td>
+
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/⚡%20WORK%20AVAILABILITY-OPEN%20FOR%20COLLABORATION-764ba2?style=for-the-badge&labelColor=2a2d3a&logo=calendar&logoColor=white" />
+<br><br>
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+<td><img src="https://img.shields.io/badge/Experience-Enterprise--grade%20system%20development-58a6ff?style=flat-square&labelColor=0d1117&logo=star" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Availability-Open%20for%20challenging%20projects%20&%20collaborations-79c0ff?style=flat-square&labelColor=0d1117&logo=check" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Timezone-Nepal%20Standard%20Time%20(UTC+5:45)-ff6b6b?style=flat-square&labelColor=0d1117&logo=clock" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- Quick Stats -->
+<h3>📊 <b>Professional Stats</b> 📊</h3>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🎯-Enterprise%20Focus-667eea?style=for-the-badge&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="60"/><br>
+<small><b>System Architecture</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⚡-Performance%20Expert-764ba2?style=for-the-badge&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"/><br>
+<small><b>Sub-100ms Latency</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🛡️-Security%20Focused-f093fb?style=for-the-badge&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/26BRQaiZM0IeyoJfa/giphy.gif" width="60"/><br>
+<small><b>Zero Trust Architecture</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/☁️-Cloud%20Native-58a6ff?style=for-the-badge&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60"/><br>
+<small><b>AWS & Kubernetes</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀-Innovation%20Leader-79c0ff?style=for-the-badge&labelColor=2a2d3a" /><br>
+<img src="https://media.giphy.com/media/26BRE5R679070oy4U/giphy.gif" width="60"/><br>
+<small><b>Next-Gen Solutions</b></small>
+</td>
+</tr>
+</table>
 
 </div>
 
