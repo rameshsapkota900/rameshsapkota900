@@ -26,15 +26,6 @@ I’m passionate about building **enterprise-grade backend systems** that are:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>  
 
----
-
-## 📈 GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshsapkota900&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshsapkota900&theme=tokyonight&hide_border=true" height="150" />
-</p>  
-
----
 
 ## 📬 Connect with Me  
 <p align="center">
