@@ -1,56 +1,72 @@
-```md
 <div align="center">
+  <h1 style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-size: 36px; font-weight: 700; margin-bottom: 6px;">Ramesh Sapkota</h1>
+  <p style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-size: 16px; color: #c9d1d9; margin-top: 0;"><strong>Cybersecurity & Networking Specialist | Java / Spring Boot Developer | Infrastructure Engineer</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Network+Security+Engineer;Routing+%26+Switching+Expert;CCTV+%26+IP+Network+Specialist;Java+%2F+Spring+Boot+Developer" alt="Typing SVG" />
+</div>
 
-# `RAMESH.exe`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2000&pause=500&color=FF003C&center=true&vCenter=true&width=440&lines=NETWORKS+DON'T+LIE.;TRACE.+ANALYZE.+DOMINATE.;CCNA+%2F+CCNP+%2F+CYBERSECURITY;JAVA+%2F+SPRING+BOOT" />
-
-`[ NETWORK ENGINEERING ]`  ` [ CYBERSECURITY ]`  `[ BACKEND DEV ]`
-
-<img src="https://img.shields.io/badge/CCNA-LEARNING-FF003C?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CCNP-IN_PROGRESS-111111?style=flat-square&logo=cisco&logoColor=FF003C" />
-<img src="https://img.shields.io/badge/SECURITY-AUTHORIZED_LABS-FF003C?style=flat-square&logo=kalilinux&logoColor=white" />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-2563eb?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Networking-0ea5e9?style=for-the-badge&logo=networking&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Security%20Hardening-f43f5e?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
 ---
 
-```text
-root@ramesh:~$ whoami
-Network Engineer in Progress | Java Developer
+## 🔐 About Me
+I build and protect modern digital infrastructures by combining practical networking expertise, cybersecurity awareness, and reliable backend development. My work focuses on secure systems, strong infrastructure design, and solutions that are both effective and scalable.
 
-root@ramesh:~$ focus
-[+] Cisco Routing & Switching
-[+] TCP/IP • VLANs • OSPF • ACLs
-[+] Cybersecurity & Ethical Hacking
-[+] Java • Spring Boot • PostgreSQL
+| Area | Focus |
+|---|---|
+| Network Security | Hardening, monitoring, and secure architecture |
+| Infrastructure | Switching, routing, VLANs, IP networks, and troubleshooting |
+| Surveillance | CCTV and IP-based camera systems |
+| Backend Development | Java, Spring Boot, and reliable application logic |
 
-root@ramesh:~$ status
->> LEARN. BUILD. TEST. REPEAT.
-```
+---
 
-### `// ARSENAL`
+## 🧠 Core Strengths
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-Enterprise%20Networks-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Switches-Routers-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CCTV-IP%20Cameras-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Firewalls%20%26%20Hardening-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%2F%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLANs-Subnetting-9C27B0?style=for-the-badge" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,postgres,linux,git,github,vscode&theme=dark" />
+---
 
-### `// NETWORK LAB`
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-2E5D8A?style=for-the-badge&logo=router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=f&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-`IPv4 / IPv6` · `VLAN / STP` · `OSPF` · `ACL` · `NAT` · `DNS / DHCP` · `Wireshark` · `Cisco IOS`
+---
 
-### `// PROJECTS & ACCESS`
 
-- **GitHub:** https://github.com/rameshsapkota900
-- **LinkedIn:** https://www.linkedin.com/in/ramesh-sapkota-3aa24b329/
-- **Email:** rameshsapkota900@gmail.com
+## 📬 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramesh-sapkota-3aa24b329/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rameshsapkota900">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rameshsapkota900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rameshsapkota900&show_icons=true&hide_border=true&bg_color=050505&title_color=FF003C&icon_color=FF003C&text_color=CCCCCC&rank_icon=github" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshsapkota900&layout=compact&hide_border=true&bg_color=050505&title_color=FF003C&text_color=CCCCCC" height="130" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF003C&height=2&section=footer" />
-
-`NO NOISE. NO LIMITS. JUST PACKETS AND CODE.`
-
-</div>
-```
+<p align="center" style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-size: 14px; color: #8b949e;">
+  <i>Security is not just a feature — it is a foundation.</i>
+</p>  
